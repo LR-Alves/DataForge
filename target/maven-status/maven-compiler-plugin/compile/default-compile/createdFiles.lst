@@ -1,1 +1,4 @@
+com/dataforge/service/CPFService.class
+com/dataforge/controller/CPFController.class
 com/dataforge/DataForgeApplication.class
+com/dataforge/model/CPF.class
