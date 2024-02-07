@@ -1,12 +1,11 @@
 package com.dataforge.service;
 
+import com.dataforge.model.CPF;
+import org.springframework.stereotype.Service;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-
-import org.springframework.stereotype.Service;
-
-import com.dataforge.model.CPF;
 
 @Service
 public class CPFService {
